@@ -1,0 +1,21 @@
+{
+  "name": "acorn-has-side-effect",
+  "version": "0.0.0",
+  "description": "A simple module to check whether an expression has any side effects",
+  "keywords": [
+    "acorn"
+  ],
+  "dependencies": {
+    "acorn": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/acorn-has-side-effect.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
