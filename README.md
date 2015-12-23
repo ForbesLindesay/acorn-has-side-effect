@@ -3,7 +3,7 @@
 A simple module to check whether an expression has any side effects.  This is aimed at being useful for writing optimising JavaScript compilers.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/acorn-has-side-effect/master.svg)](https://travis-ci.org/ForbesLindesay/acorn-has-side-effect)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/acorn-has-side-effect.svg)](https://gemnasium.com/ForbesLindesay/acorn-has-side-effect)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/acorn-has-side-effect.svg)](https://david-dm.org/ForbesLindesay/acorn-has-side-effect)
 [![NPM version](https://img.shields.io/npm/v/acorn-has-side-effect.svg)](https://www.npmjs.org/package/acorn-has-side-effect)
 
 ## Installation
