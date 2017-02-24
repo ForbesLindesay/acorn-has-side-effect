@@ -1,5 +1,7 @@
 # acorn-has-side-effect
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/acorn-has-side-effect.svg)](https://greenkeeper.io/)
+
 A simple module to check whether an expression has any side effects.  This is aimed at being useful for writing optimising JavaScript compilers.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/acorn-has-side-effect/master.svg)](https://travis-ci.org/ForbesLindesay/acorn-has-side-effect)
